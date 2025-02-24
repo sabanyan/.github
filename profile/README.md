@@ -1,7 +1,5 @@
 # StreamCat
-![streacatTitle](https://github.com/user-attachments/assets/48d74728-42a5-468a-b516-fd8d194e91e9)
-
-<img src="https://github.com/user-attachments/assets/48d74728-42a5-468a-b516-fd8d194e91e9" width="480">
+<img src="https://github.com/user-attachments/assets/48d74728-42a5-468a-b516-fd8d194e91e9" width="640">
 
 ### History
 ```
@@ -23,23 +21,15 @@
 
 
 ### Env
-  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
 
-  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-  <img src="https://img.shields.io/badge/-FastAPI-009688.svg?logo=fastapi&style=flat">
-  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00.svg?logo=sqlalchemy&style=flat">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
-  <img src="https://img.shields.io/badge/-nysol_python-7E4980.svg?&style=flat">
+  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-FastAPI-009688.svg?logo=fastapi&style=flat"> <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00.svg?logo=sqlalchemy&style=flat"> <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat"> <img src="https://img.shields.io/badge/-nysol_python-7E4980.svg?&style=flat">
 
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-  <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
 
 
 ### Members
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroshi80&show_icons=true&theme=default)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kentaro-Yamada&show_icons=true&theme=default)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoTani0210&show_icons=true&theme=default)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroshi80&show_icons=true&theme=default) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kentaro-Yamada&show_icons=true&theme=default) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoTani0210&show_icons=true&theme=default)
 
 ### Contact
 - Email: [nekoneko.ceo@gmail.com](mailto:nekoneko.ceo@gmail.com)
