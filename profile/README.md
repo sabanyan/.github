@@ -1,6 +1,7 @@
-@@ -0,0 +1,43 @@
 # StreamCat
 ![streacatTitle](https://github.com/user-attachments/assets/48d74728-42a5-468a-b516-fd8d194e91e9)
+
+<img src="https://github.com/user-attachments/assets/48d74728-42a5-468a-b516-fd8d194e91e9" width="480">
 
 ### History
 ```
