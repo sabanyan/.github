@@ -3,7 +3,7 @@
 
 ### History
 ```
-2016-11-29 KSKP v0.9 を開発開始
+2016-11-29 KSKP v0.9を開発開始
 2018-08-31 β版リリース
 2019-11-01 KSKP v2.0リリース
 2020-11-30 KSKP v3.0リリース
@@ -21,12 +21,12 @@
 
 
 ### Env
-  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
 
-  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-FastAPI-009688.svg?logo=fastapi&style=flat"> <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00.svg?logo=sqlalchemy&style=flat"> <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat"> <img src="https://img.shields.io/badge/-nysol_python-7E4980.svg?&style=flat">
-
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
-
+|  |  |
+----|---- 
+| tools | <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"  valign="bottom"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat" valign="bottom"> |
+| backend | <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" valign="bottom"> <img src="https://img.shields.io/badge/-FastAPI-009688.svg?logo=fastapi&style=flat" valign="bottom"> <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00.svg?logo=sqlalchemy&style=flat" valign="bottom"> <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat" valign="bottom"> <img src="https://img.shields.io/badge/-nysol_python-7E4980.svg?&style=flat" valign="bottom"> |
+| frontend | <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat" valign="bottom"> <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat" valign="bottom"> |
 
 ### Members
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroshi80&show_icons=true&theme=default) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kentaro-Yamada&show_icons=true&theme=default) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoTani0210&show_icons=true&theme=default)
