@@ -1,5 +1,5 @@
 # StreamCat
-<img src="https://github.com/user-attachments/assets/48d74728-42a5-468a-b516-fd8d194e91e9" width="640">
+<img src="https://github.com/user-attachments/assets/93f1f228-eeb2-4c3f-9e6b-6cd4994d9e52" width="640">
 
 ### History
 ```
